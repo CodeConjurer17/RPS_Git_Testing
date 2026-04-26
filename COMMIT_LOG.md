@@ -10,3 +10,9 @@ Samodejno generirana datoteka.
 - **Avtor:** CodeConjurer17
 - **Spremenjene datoteke:** README.md
 
+
+## `f14b2ec` — 2026-04-26 20:20:32 +0200
+- **Sporočilo:** feat(game): add rock paper scissors logic
+- **Avtor:** CodeConjurer17
+- **Spremenjene datoteke:** COMMIT_LOG.md
+
