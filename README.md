@@ -2,6 +2,7 @@
 
 A simple Rock Paper Scissors game used to demonstrate Git hooks.
 
+
 ## How to run the tests
 
 ```bash
