@@ -22,3 +22,9 @@ Samodejno generirana datoteka.
 - **Avtor:** CodeConjurer17
 - **Spremenjene datoteke:** COMMIT_LOG.md,README.md
 
+
+## `9031cdc` — 2026-05-21 17:21:14 +0200
+- **Sporočilo:** chore: add github actions ci workflow
+- **Avtor:** CodeConjurer17
+- **Spremenjene datoteke:** .github/workflows/ci.yml,COMMIT_LOG.md,README.md,requirements.txt
+
