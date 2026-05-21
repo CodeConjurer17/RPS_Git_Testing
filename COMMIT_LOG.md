@@ -16,3 +16,9 @@ Samodejno generirana datoteka.
 - **Avtor:** CodeConjurer17
 - **Spremenjene datoteke:** COMMIT_LOG.md
 
+
+## `888a1db` — 2026-04-26 20:23:55 +0200
+- **Sporočilo:** feat: add rock paper scissors logic
+- **Avtor:** CodeConjurer17
+- **Spremenjene datoteke:** COMMIT_LOG.md,README.md
+
